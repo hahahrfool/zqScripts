@@ -1,5 +1,5 @@
 
-name: 京喜
+name: 京喜签到
 
 on:
   workflow_dispatch:
